@@ -1,0 +1,22 @@
+module.exports.lista = [
+  { nome: "acao",  icone: "bi bi-airplane-fill"},
+  { nome: "anime", icone: "bi bi-image-alt"},
+  { nome: "aventura", icone: "bi bi-ladder"},
+  { nome: "biografico", icone: "bi bi-bezier2"},
+  { nome: "classicos", icone: "bi bi-archive"},
+  { nome: "comedia", icone: "bi bi-arrow-through-heart"},
+  { nome: "documentario", icone: "bi bi-box"},
+  { nome: "drama", icone: "bi bi-cart-dash"},
+  { nome: "ficcao", icone: "bi bi-browser-safari"},
+  { nome: "gospel", icone: "bi bi-chat-square-text"},
+  { nome: "herois", icone: "bi bi-emoji-sunglasses"},
+  { nome: "lancamento", icone: "bi bi-cloud-arrow-up"},
+  { nome: "musical", icone: "bi bi-boombox"},
+  { nome: "nacional", icone: "bi bi-map-fill"},
+  { nome: "romance", icone: "bi bi-heart"},
+  { nome: "suspence", icone: "bi bi-gender-trans"},
+  { nome: "terror", icone: "bi bi-fingerprint"},
+  { nome: "guerra", icone: "bi bi-airplane"},
+  { nome: "policial", icone: "bi bi-bricks"},
+  { nome: "desenho", icone: "bi bi-award"}
+  ];
